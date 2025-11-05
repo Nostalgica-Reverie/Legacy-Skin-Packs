@@ -239,6 +239,63 @@
             }
         ]
     },
+    "modern_skinpacks:dbz": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/dbz.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/goku.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/supersaiyangoku.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/supersaiyan3goku.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/vegeta.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/supersaiyanvegeta.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/piccolo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/trunks.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/supersaiyantrunks.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/gohan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/supersaiyangohan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/krillin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/android17.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/android18.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/bulma.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/frieza.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/cell.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/dbz/majinbuu.cpmmodel"
+            }
+        ]
+    },
     "modern_skinpacks:mcd": {
         "icon": "modern_skinpacks:textures/skinpack_icons/mcd.png",
         "type": "skin",
