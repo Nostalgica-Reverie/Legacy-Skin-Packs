@@ -2,6 +2,10 @@
 
 Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.com/mod/legacy4j) and [LegacySkins](https://modrinth.com/mod/legacy-skins) that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft.
 
+> [!IMPORTANT]
+> This repository has been moved to Codeberg, and as such is not being updated on GitHub any longer.   
+> [View Repo](https://codeberg.org/Nostalgica-Reverie/Legacy-Skin-Packs).
+
 ## Thanks to:
 
 <details>
